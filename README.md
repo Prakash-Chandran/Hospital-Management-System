@@ -1,4 +1,4 @@
-## EX:4  UML Diagrams for Hospital management system
+## EX:4 Hospital management system
 ### NAME: PRAKASH C
 ### REG NO: 212223240122
 ### DATE: 17.10.2024
